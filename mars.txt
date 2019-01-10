@@ -1,2 +1,6 @@
 Mars is outside.
 My txt is different!
+Edited on GitHub :)
+
+Git is pronounced "git" or "jit"???
+...Steve Wilhite, the inventor of the widely used Web illustration (GIF), declared it should be pronounced “jif,” like the brand of peanut butter, rather than with a hard G sound...
