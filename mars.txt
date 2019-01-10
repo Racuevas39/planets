@@ -1,9 +1,15 @@
-Mars is outside.
-My txt is different!
+Mars is red
+Venus is blue
+I'm getting distracted
+Because lunch is coming soon
+
 Edited on GitHub :)
+
 This room is cold :(
 ...but solved with hot food :p
 ... I'm hungry!
 
 Git is pronounced "git" or "jit"???
 ...Steve Wilhite, the inventor of the widely used Web illustration (GIF), declared it should be pronounced “jif,” like the brand of peanut butter, rather than with a hard G sound...
+
+
